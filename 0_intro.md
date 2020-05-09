@@ -182,7 +182,7 @@ Basic attack packets could be blocked by IDS, but
 
 ## 3、课程内容
 
-6 unit：
+课程共包含6 unit：
 
 - Memory attacks
 - Memory defenses
